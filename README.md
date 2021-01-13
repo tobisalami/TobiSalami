@@ -1,4 +1,4 @@
-### Hi. It is weird that I have been building websites for a realy long time but I have no experience with real hands-on coding. Thanks to Wordpress. Today, I will begin learning html, css, js, python, and their popular frameworks so I get familiar with them and actually use them to create really good projects. Okay, let's go!
+### Hi. It is weird that I have been building websites for a really long time but I have no experience with real hands-on coding. Thanks to Wordpress. Today, I will begin learning html, css, js, python, and their popular frameworks so I get familiar with them and actually use them to create really good projects. Okay, let's go!
 
 <!--
 **tobisalami/TobiSalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
